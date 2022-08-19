@@ -2,7 +2,8 @@
 
 ## Install modules
 
-    npm install 
+- npm install https://github.com/khipu/react-native-khenshin --save --force
+- npm install 
 
 ## Running on android
 
